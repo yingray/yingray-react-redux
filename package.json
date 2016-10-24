@@ -1,9 +1,10 @@
 {
-  "name": "create-react-redux-app",
+  "name": "react-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yingray.github.io/create-react-redux-app",
+  "homepage": "http://yingray.github.io/react-redux",
   "devDependencies": {
+    "babel-polyfill": "^6.16.0",
     "gh-pages": "^0.11.0",
     "isomorphic-fetch": "^2.2.1",
     "react-redux": "^4.4.5",
