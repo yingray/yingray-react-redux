@@ -2,7 +2,7 @@
   "name": "react-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yingray.github.io/react-redux",
+  "homepage": "http://yingray.github.io/yingray-react-redux",
   "devDependencies": {
     "babel-polyfill": "^6.16.0",
     "gh-pages": "^0.11.0",
